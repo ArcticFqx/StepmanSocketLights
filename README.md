@@ -15,3 +15,5 @@ Default values are:
 
 Packet contains three bytes followed by a null byte.
 The bits set on those three bytes are exactly the same as on the old parallel lights driver.
+
+Build available here https://github.com/ArcticFqx/StepmanSocketLights/releases
